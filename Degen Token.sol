@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract Assessment is ERC20 {
     address public owner;
     string[] public RedemableItems;
-    constructor() ERC20("VikasPhulriya", "VP") {
+    constructor() ERC20("Anshuman Roshan", "AR") {
         owner = msg.sender;
         RedemableItems = new string[](4);
         RedemableItems[0] = "Item 1";
