@@ -38,8 +38,6 @@ Select the "<YourFileNameHere>" contract from the dropdown menu, and then click 
 
 Once the contract is deployed, you can interact with it by calling the  various functions.
 
-## Authors
-
-Vikas Phulriya
+## Project By
 - Anshuman Roshan
 
